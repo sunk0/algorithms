@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SUNKO\\source\\repos\\Factorial\\Factorial\\Factorial.csproj": {}
+    "C:\\Users\\SUNKO\\Desktop\\algorithms\\Factorial\\Factorial\\Factorial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SUNKO\\source\\repos\\Factorial\\Factorial\\Factorial.csproj": {
+    "C:\\Users\\SUNKO\\Desktop\\algorithms\\Factorial\\Factorial\\Factorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SUNKO\\source\\repos\\Factorial\\Factorial\\Factorial.csproj",
+        "projectUniqueName": "C:\\Users\\SUNKO\\Desktop\\algorithms\\Factorial\\Factorial\\Factorial.csproj",
         "projectName": "Factorial",
-        "projectPath": "C:\\Users\\SUNKO\\source\\repos\\Factorial\\Factorial\\Factorial.csproj",
+        "projectPath": "C:\\Users\\SUNKO\\Desktop\\algorithms\\Factorial\\Factorial\\Factorial.csproj",
         "packagesPath": "C:\\Users\\SUNKO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SUNKO\\source\\repos\\Factorial\\Factorial\\obj\\",
+        "outputPath": "C:\\Users\\SUNKO\\Desktop\\algorithms\\Factorial\\Factorial\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

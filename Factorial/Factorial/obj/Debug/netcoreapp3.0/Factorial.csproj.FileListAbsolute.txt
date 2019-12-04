@@ -9,3 +9,14 @@ C:\Users\SUNKO\source\repos\Factorial\Factorial\obj\Debug\netcoreapp3.0\Factoria
 C:\Users\SUNKO\source\repos\Factorial\Factorial\obj\Debug\netcoreapp3.0\Factorial.AssemblyInfo.cs
 C:\Users\SUNKO\source\repos\Factorial\Factorial\obj\Debug\netcoreapp3.0\Factorial.dll
 C:\Users\SUNKO\source\repos\Factorial\Factorial\obj\Debug\netcoreapp3.0\Factorial.pdb
+C:\Users\SUNKO\Desktop\algorithms\Factorial\Factorial\bin\Debug\netcoreapp3.0\Factorial.exe
+C:\Users\SUNKO\Desktop\algorithms\Factorial\Factorial\bin\Debug\netcoreapp3.0\Factorial.deps.json
+C:\Users\SUNKO\Desktop\algorithms\Factorial\Factorial\bin\Debug\netcoreapp3.0\Factorial.runtimeconfig.json
+C:\Users\SUNKO\Desktop\algorithms\Factorial\Factorial\bin\Debug\netcoreapp3.0\Factorial.runtimeconfig.dev.json
+C:\Users\SUNKO\Desktop\algorithms\Factorial\Factorial\bin\Debug\netcoreapp3.0\Factorial.dll
+C:\Users\SUNKO\Desktop\algorithms\Factorial\Factorial\bin\Debug\netcoreapp3.0\Factorial.pdb
+C:\Users\SUNKO\Desktop\algorithms\Factorial\Factorial\obj\Debug\netcoreapp3.0\Factorial.csprojAssemblyReference.cache
+C:\Users\SUNKO\Desktop\algorithms\Factorial\Factorial\obj\Debug\netcoreapp3.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\SUNKO\Desktop\algorithms\Factorial\Factorial\obj\Debug\netcoreapp3.0\Factorial.AssemblyInfo.cs
+C:\Users\SUNKO\Desktop\algorithms\Factorial\Factorial\obj\Debug\netcoreapp3.0\Factorial.dll
+C:\Users\SUNKO\Desktop\algorithms\Factorial\Factorial\obj\Debug\netcoreapp3.0\Factorial.pdb
